@@ -77,9 +77,6 @@ section h2 {
 .project a:hover {
     text-decoration: underline;
 }
-.project .footer{
-    margin-top: 17rem;
-}
 
 .skills ul {
     list-style: none;
